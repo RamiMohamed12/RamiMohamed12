@@ -2,7 +2,7 @@
 - 👀 I’m interested in cats.
 - 🌱 I’m currently learning why I am alive.
 - 💞️ I’m looking to collaborate on nothing. 
-- 📫 How to reach me roomierami00@gmail.com
+- 📫 How to reach me amine.rami.dz@viacesi.fr
 - ⚡ Fun fact: I like cats. 
 
 <!---
