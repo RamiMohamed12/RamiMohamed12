@@ -37,13 +37,9 @@
 ### Featured Repositories  
 
 #### Everflow Dashboard  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamiMohamed12&repo=everflow&theme=tokyonight)](https://github.com/RamiMohamed12/everflow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamiMohamed12&repo=everflow&theme=tokyonight)](https://github.com/RamiMohamed12/everflowdashboard)
 
-#### AI Space Missions  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamiMohamed12&repo=AI-Space-Missions&theme=tokyonight)]()
+#### My Internship   
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamiMohamed12&repo=AI-Space-Missions&theme=tokyonight)](https://github.com/RamiMohamed12/stage)
 
 
-### Links  
-- [Everflow Dashboard](https://github.com/RamiMohamed12/everflow)  
-- [AI Space Missions](https://github.com/RamiMohamed12/AI-Space-Missions)  
-- [Full Portfolio](https://github.com/RamiMohamed12)  
