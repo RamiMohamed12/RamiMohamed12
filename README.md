@@ -1,8 +1,6 @@
-# Anime girl image
 
 ![Anime girl image](https://www.siliconera.com/wp-content/uploads/2020/04/Neon-Genesis-Evangelion-Shin-Evangelion.jpg?fit=800%2C400)
 
----
 
 ### Tech Stack  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
