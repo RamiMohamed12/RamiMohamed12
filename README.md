@@ -14,7 +14,7 @@
 
 
 
-### GitHub Stats  
+## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RamiMohamed12&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiMohamed12&layout=compact&theme=tokyonight" height="150" />
@@ -22,7 +22,7 @@
 
 
 
-### Follow me on  
+## Follow me on  
 <p align="center">
   <a href="https://x.com/RamiShnji12"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/ramimohamed123/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -34,13 +34,5 @@
 20 Year old Computer Science student at **CESI Algeria**, I am interested in everything tech and what's related to it.  
 
 
-
-### Featured Repositories  
-
-#### Everflow Dashboard  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamiMohamed12&repo=everflow&theme=tokyonight)](https://github.com/RamiMohamed12/everflowdashboard)
-
-#### My Internship   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamiMohamed12&repo=AI-Space-Missions&theme=tokyonight)](https://github.com/RamiMohamed12/stage)
 
 
