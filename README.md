@@ -1,17 +1,51 @@
-# 💫 About Me:
-<br>    👋 Hi, I’m @RamiMohamed12<br>    👀 I’m interested in cats.<br>    🌱 I’m currently learning why I am alive.<br>    💞️ I’m looking to collaborate on nothing.<br>    📫 How to reach me amine.rami.dz@viacesi.fr<br>    ⚡ Fun fact: I like cats.<br><br>
+# Anime girl image
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/demy01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramimohamed123) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Roomie_AC) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RamiShnji12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Roomierami) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RamiMohamed12&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RamiMohamed12&theme=dark&hide_border=true)<br/>
+![Anime girl image](https://www.siliconera.com/wp-content/uploads/2020/04/Neon-Genesis-Evangelion-Shin-Evangelion.jpg?fit=800%2C400)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RamiMohamed12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Tech Stack  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+---
+
+### GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamiMohamed12&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiMohamed12&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### Follow me on  
+<p align="center">
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+## About me  
+20 Year old Computer Science student at **CESI Algeria**, I am interested in everything tech and what's related to it.  
+
+---
+
+### Featured Repositories  
+
+#### Everflow Dashboard  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamiMohamed12&repo=everflow&theme=tokyonight)](https://github.com/RamiMohamed12/everflow)
+
+#### AI Space Missions  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamiMohamed12&repo=AI-Space-Missions&theme=tokyonight)](https://github.com/RamiMohamed12/AI-Space-Missions)
+
+---
+
+### Links  
+- [Everflow Dashboard](https://github.com/RamiMohamed12/everflow)  
+- [AI Space Missions](https://github.com/RamiMohamed12/AI-Space-Missions)  
+- [Full Portfolio](https://github.com/RamiMohamed12)  
